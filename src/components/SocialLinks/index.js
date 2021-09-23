@@ -17,13 +17,13 @@ function SocialLinks() {
                         <a href="https://www.https://github.com/scoven2" target="blank">
 						<i class="fab fa-github-square fa-3x" />
 					</a>
-                    <a href="https://www.https://www.linkedin.com/in/scottsiegel2/" target="_blank">
+                    <a href="https://www.https://www.linkedin.com/in/scottsiegel2/" target="_blank" rel="noreferrer">
 						<i class="fab fa-linkedin fa-3x" />
 					</a>
+                </div>
+            <div className="col-sm" />
+            </div>
         </div>
-        <div className="col-sm" />
-      </div>
-    </div>
 	)
 }
 
