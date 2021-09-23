@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ReadME Generator",
+    "image": "",
+    "about": "Sick of making ReadMe after ReadMe after ReadMe? Same. Use this applications to generate a Readme easily.",
+    "technologies": ["Node"],
+    "repo": "https://github.com/scoven2/README-Generator",
+    "site": "https://github.com/scoven2/README-Generator"
+  },
+  {
+    "title": "Idk, You Pick",
+    "image": "",
+    "about": "Have you ever asked someone what they want to watch or eat and they say 'IDK, you pick'? Well now you can swing by IDK, You Pick and get a randomly generated movie or meal depending on your preferences!",
+    "technologies": ["Bulma", "JavaScript", "HTML", "APIs"],
+    "repo": "https://github.com/scoven2/Group-Collaboration",
+    "site": "https://scoven2.github.io/Group-Collaboration/"
+  },
+  {
+    "title": "Ho[w]asit",
+    "image": "",
+    "about": "Sick of not know who can trust when looking for a good movie or show to watch? With Ho[w]asit you can create your own personal reviews, or get reviews from other individuals or groups your follow",
+    "technologies": ["BCrypt", "dotenv", "Express", "Express-Handlbars", "Express-Session", "MySQL2", "nodemon", "sequelize", "Node", "Prettier", "Passport", "TailwindsCSS", "ESLint", "Javascript"],
+    "repo": "https://github.com/scoven2/Siegel-Project",
+    "site": "https://how-was-it.herokuapp.com/"
+  }
+]

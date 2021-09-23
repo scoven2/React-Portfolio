@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import projects from "../..projects.json";
+import React from "react";
+import projects from "../../projects.json";
 import TechListItem from "../TechListItem";
 import "./style.css";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import Portrait from "../../img";
+import Portrait from "../../img/profilepic.jpg";
 import "./style.css";
 
 function About() {

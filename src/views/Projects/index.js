@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Project2 from "../../components/Project2;"
+import Project2 from "../../components/Project2";
 
 function Projects() {
   return (
