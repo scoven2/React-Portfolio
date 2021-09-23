@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.4090c49e.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.fd9d0372.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.fd9d0372.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fe767679.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fe767679.js.map",
+    "static/js/2.e9cf44d3.chunk.js": "/React-Portfolio/static/js/2.e9cf44d3.chunk.js",
+    "static/js/2.e9cf44d3.chunk.js.map": "/React-Portfolio/static/js/2.e9cf44d3.chunk.js.map",
+    "static/js/3.cbbc6fa4.chunk.js": "/React-Portfolio/static/js/3.cbbc6fa4.chunk.js",
+    "static/js/3.cbbc6fa4.chunk.js.map": "/React-Portfolio/static/js/3.cbbc6fa4.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.4090c49e.chunk.css.map": "/React-Portfolio/static/css/main.4090c49e.chunk.css.map",
+    "static/js/2.e9cf44d3.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.e9cf44d3.chunk.js.LICENSE.txt",
+    "static/media/Scott_Siegel_Resume_.9c18a426.pdf": "/React-Portfolio/static/media/Scott_Siegel_Resume_.9c18a426.pdf",
+    "static/media/profilepic.a869391d.jpg": "/React-Portfolio/static/media/profilepic.a869391d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe767679.js",
+    "static/js/2.e9cf44d3.chunk.js",
+    "static/css/main.4090c49e.chunk.css",
+    "static/js/main.fd9d0372.chunk.js"
+  ]
+}
