@@ -27,7 +27,7 @@ export default function About() {
                   <li className="skill">Node</li>
                   <li className="skill">APIs</li>
                   <li className="skill">JavaScript</li>
-                  <li className="skill">HTML and CSS</li>
+                  <li className="skill">HTML & CSS</li>
                 </ul>
             </p>
             <p className="Bio">Ciao</p>
