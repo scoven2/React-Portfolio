@@ -11,7 +11,7 @@ export default function About() {
         <div className="col-md">
           <h3 className="viewText" id="aboutTitle">ABOUT</h3>
           <div className="row align-self-center bioText">
-            <p className="Bio">My name is Scott Siegel and I am a professional web developer. With years of online media experience, and an in-depth knowledge of the ever changing digital landscape, I am able to create dynamic web applications to order. With my team of sibling programmers, Steve and Sarah, we will take over the world.</p>
+            <p className="Bio">My name is Scott Siegel and I am a professional web developer. With years of online media experience, and an in-depth knowledge of the ever changing digital landscape, I am able to create dynamic web applications to order. With my team of sibling programmers, Steve and Sarah, we are taking over the world.</p>
             <p className="Bio">
               <span className="skillHeader">My Skills</span>
                 <ul className=" skillList text-center">

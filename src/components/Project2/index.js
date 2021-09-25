@@ -1,7 +1,12 @@
 import React from "react";
 import projects from "../../projects.json";
-import TechListItem from "../TechListItem";
 import "./style.css";
+
+function TechListItem(props) {
+  return props.techItems.map(technology => {
+      return <li className="techUsed">{technology}</li>
+  })
+}
 
 function Project2() {
   function checkRepoLink(project) {
